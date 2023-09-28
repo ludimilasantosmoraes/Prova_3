@@ -1,0 +1,15 @@
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\bin\Debug\net6.0\prova_3bimestre.exe
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\bin\Debug\net6.0\prova_3bimestre.deps.json
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\bin\Debug\net6.0\prova_3bimestre.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\bin\Debug\net6.0\prova_3bimestre.dll
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\bin\Debug\net6.0\prova_3bimestre.pdb
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\obj\Debug\net6.0\prova_3bimestre.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\obj\Debug\net6.0\prova_3bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\obj\Debug\net6.0\prova_3bimestre.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\obj\Debug\net6.0\prova_3bimestre.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\obj\Debug\net6.0\prova_3bimestre.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\obj\Debug\net6.0\prova_3bimestre.dll
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\obj\Debug\net6.0\refint\prova_3bimestre.dll
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\obj\Debug\net6.0\prova_3bimestre.pdb
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\obj\Debug\net6.0\prova_3bimestre.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Documentos\ifro\lógica de programação\programas\prova_3bimestre\prova_3bimestre\obj\Debug\net6.0\ref\prova_3bimestre.dll
